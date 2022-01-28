@@ -14,7 +14,7 @@ Anaconda - Python 3.7
 ## PROGRAM:
 ```
 '''
-Refernce no: 21003572
+Reference no: 21003572
 Developed by: Meenakshi M
 '''
 with open('lines.txt','r') as file1:
