@@ -13,10 +13,10 @@ Anaconda - Python 3.7
 
 ## PROGRAM:
 ```
-'''
-Reference no: 21003572
-Developed by: Meenakshi M
-'''
+
+
+
+
 with open('lines.txt','r') as file1:
     with open('text.txt','w') as file2:
         for line in file1:
