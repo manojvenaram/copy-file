@@ -24,16 +24,14 @@ with open('lines.txt','r') as file1:
 ```
 ## OUTPUT:
 ### Program:
-![program](./program.png)
+![program](1.png)
 
 ## lines.txt in Files:
-![line](./line.png)
+![line](2.png)
 
-## Terminal:
-![terminal](./terminal.png)
 
 ## text.txt File (Copied content):
-![text](./text.png)
+![text](3.png)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
